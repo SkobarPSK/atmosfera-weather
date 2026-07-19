@@ -1,0 +1,9 @@
+{
+  auto_https disable
+}
+
+:8080 {
+  root * .
+  file_server
+  encode zstd gzip
+}
