@@ -1,1 +1,1 @@
-Updated README
+Updated with all features

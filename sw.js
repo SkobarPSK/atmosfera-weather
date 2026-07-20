@@ -1,1 +1,1 @@
-// Service Worker code
+const CACHE_NAME = 'atmosfera-v2'; ... (full SW)
